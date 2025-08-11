@@ -1,0 +1,4 @@
+repository "GodSimulatorRPG/GodSimulatorRPG@16768298038403@cloud"
+  path "/"
+    br "/main"
+    co "/main"
